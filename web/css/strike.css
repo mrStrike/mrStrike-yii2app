@@ -1,0 +1,13 @@
+.stable{
+	margin-bottom:0px;
+}
+.stable td{
+	padding:0px !important;
+	border:1px solid black !important;
+	text-align:left !important;
+}
+.stable th{
+	padding:1px !important;
+	background-color:silver !important;
+	border:1px solid black !important;
+}
