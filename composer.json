@@ -3,7 +3,7 @@
     "description": "PS-Builder - DEV",
     "keywords": ["yii2", "framework", "basic", "project template"],
     "homepage": "https://github.com/mrStrike/mrStrike-yii2app",
-    "type": "Dev project",
+    "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "require": {
