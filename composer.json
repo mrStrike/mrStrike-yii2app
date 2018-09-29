@@ -8,6 +8,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
+        "mstrike/ps-builder":"@dev",
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yiisoft/yii2-swiftmailer": "~2.0.0",
@@ -55,8 +56,8 @@
     },
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
+            "type": "vcs",
+            "url": "https://github.com/mrStrike/mrStrike-yii2app"
         }
     ]
 }
