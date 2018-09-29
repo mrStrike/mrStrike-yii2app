@@ -1,14 +1,13 @@
 {
     "name": "mrstrike/ps-builder",
     "description": "PS-Builder - DEV",
-    "keywords": ["yii2", "framework", "basic", "project template"],
+    "keywords": ["ps-builder", "mrstrike", "project template"],
     "homepage": "https://github.com/mrStrike/mrStrike-yii2app",
     "type": "project",
     "license": "BSD-3-Clause",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "mstrike/ps-builder":"@dev",
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yiisoft/yii2-swiftmailer": "~2.0.0",
